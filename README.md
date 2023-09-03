@@ -1,5 +1,5 @@
 ![risuxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=risuxx&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risuxx&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risuxx&layout=compact&hide=css,html&size_weight=0.5&count_weight=0.5&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **risuxx/risuxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
